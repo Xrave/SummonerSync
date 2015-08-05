@@ -1,6 +1,6 @@
 Reporting [SummonerSync.com](summonersync.com) bugs
 ===
-Go to [issues](/issues) and check if the bug you're experiencing has already been reported. If not, please include the following in your bug report:
+Go to [issues](../../issues) and check if the bug you're experiencing has already been reported. If not, please include the following in your bug report:
 
 0. URL of page where bug was experienced
 1. Screenshot (if applicable)
